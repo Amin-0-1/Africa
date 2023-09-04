@@ -34,7 +34,6 @@ struct MainView: View {
                     Text("Gallery ")
                 }
         }
-//        .backgroundStyle(.ultraThinMaterial)
     }
 }
 
