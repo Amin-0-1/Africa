@@ -30,7 +30,7 @@ struct MothionAnimationView: View {
     // random delay
     func randomDelay()->Double{
         return Double.random(in: 0...2)
-    }
+    } 
     var body: some View {
         GeometryReader { gr in
             ZStack {
