@@ -33,6 +33,7 @@
 		2711D1022AAA698C004E0C2A /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2711D1012AAA698C004E0C2A /* LocationModel.swift */; };
 		275260912AAE114A002BE2E2 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275260902AAE114A002BE2E2 /* MapAnnotationView.swift */; };
 		275260932AAE58D2002BE2E2 /* MothionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275260922AAE58D2002BE2E2 /* MothionAnimationView.swift */; };
+		27560C6B2B17A5EA00DC1C37 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27560C6A2B17A5EA00DC1C37 /* AnimalGridItemView.swift */; };
 		279CC63F2A9CC5090040FA43 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279CC63E2A9CC5090040FA43 /* AfricaApp.swift */; };
 		279CC6412A9CC5090040FA43 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279CC6402A9CC5090040FA43 /* ContentView.swift */; };
 		279CC6432A9CC50A0040FA43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 279CC6422A9CC50A0040FA43 /* Assets.xcassets */; };
@@ -77,6 +78,7 @@
 		2711D1012AAA698C004E0C2A /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		275260902AAE114A002BE2E2 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		275260922AAE58D2002BE2E2 /* MothionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MothionAnimationView.swift; sourceTree = "<group>"; };
+		27560C6A2B17A5EA00DC1C37 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 		279CC63B2A9CC5090040FA43 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		279CC63E2A9CC5090040FA43 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		279CC6402A9CC5090040FA43 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				2711D0FC2AAA5873004E0C2A /* VideoPlayerView.swift */,
 				275260902AAE114A002BE2E2 /* MapAnnotationView.swift */,
 				275260922AAE58D2002BE2E2 /* MothionAnimationView.swift */,
+				27560C6A2B17A5EA00DC1C37 /* AnimalGridItemView.swift */,
 			);
 			path = ReusableView;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				27CF137E2AA63E7F00C78687 /* Video.swift in Sources */,
 				27CF13762AA5E78B00C78687 /* InsetGalleryView.swift in Sources */,
 				2711D1022AAA698C004E0C2A /* LocationModel.swift in Sources */,
+				27560C6B2B17A5EA00DC1C37 /* AnimalGridItemView.swift in Sources */,
 				27BDBF962A9F6C1A009D3A27 /* CodableBundleExtension.swift in Sources */,
 				27CF13822AA644B500C78687 /* VideoListItemView.swift in Sources */,
 				27CF137C2AA6362D00C78687 /* ExternalWebView.swift in Sources */,
